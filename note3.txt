@@ -1,0 +1,19 @@
+  epic === abstract view of what we are creating
+  story === what is requried to acheive our epic
+sprint === project workflow of task to be completed in specific time
+dml dcl dql 5 catagerious syntax comands
+
+27/09/2022
+1.create a table employe with the feilds id name email id phone number doj
+job id salary (10 people data collect)
+who has more than experience 20yrs above and salary should be increase 5 percent
+
+
+https://localhost:5500/em
+
+C:\Program Files\PostgreSQL\14
+
+5432: port
+
+Class.forName("oracle.jdbc.driver.OracleDriver");
+    String url = "jdbc:oracle:thin:@localhost:1521:XE";
